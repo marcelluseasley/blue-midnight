@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#7d8080",
+		"editor.foreground": "#808585",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#0077ff"
 	},
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#20284d"
+				"foreground": "#3b6638"
 			}
 		},
 		{
