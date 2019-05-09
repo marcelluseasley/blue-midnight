@@ -1,0 +1,22 @@
+{
+    "name": "blue-midnight",
+    "displayName": "Blue Midnight",
+    "publisher": "marcellus-easley",
+    "description": "Custom dark theme with blue accents",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue Midnight-color-theme.json"
+            }
+        ]
+    }
+}
