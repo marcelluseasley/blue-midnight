@@ -254,8 +254,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
-			}
+				"foreground": "#0077ff"
+			}"se"selection": "#000000","selection": "#000000","selection": "#000000",lection": "#000000",
 		},
 		{
 			"name": "CSS Classes",
@@ -367,7 +367,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#0077ff"
 			}
 		},
 		{
@@ -385,7 +385,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#0077ff"
 			}
 		},
 		{
