@@ -2,10 +2,13 @@
 	"name": "Blue Midnight",
 	"type": "dark",
 	"colors": {
+		"background": "#000000",
 		"editor.background": "#000000",
 		"editor.foreground": "#808585",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#0077ff"
+		"sideBarTitle.foreground": "#0077ff",
+		"sideBar.background": "#000000",
+		"panel.background": "#000000"
 	},
 	"tokenColors": [
 		{
