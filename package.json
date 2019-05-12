@@ -3,7 +3,7 @@
     "displayName": "Blue Midnight",
     "publisher": "marcellus-easley",
     "description": "Custom dark theme with blue accents",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.33.0"
     },
