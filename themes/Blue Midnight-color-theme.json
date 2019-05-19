@@ -2,14 +2,12 @@
 	"name": "Blue Midnight",
 	"type": "dark",
 	"colors": {
-		"background": "#000000",
 		"editor.background": "#000000",
 		"editor.foreground": "#808585",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#0077ff",
 		"sideBar.background": "#000000",
 		"panel.background": "#000000",
-		"selection": "#000000",
 	},
 	"tokenColors": [
 		{
@@ -255,7 +253,7 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#0077ff"
-			}"se"selection": "#000000","selection": "#000000","selection": "#000000",lection": "#000000",
+			}
 		},
 		{
 			"name": "CSS Classes",
